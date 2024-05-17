@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mensaje {
+    font-size: 3rem;
+}
+
+.nav-bar{
+justify-content: flex-end;
+}
+
+.ul{
+    display: flex;
+    text-decoration: none;
+    font-size: 2rem;
+    margin-bottom: 0;
+    padding-left: 0;
+    list-style-type: none;
+    align-items: center;
+    margin-right: 1rem;
+}
+
+li{
+    margin-inline: 1rem;
+}
